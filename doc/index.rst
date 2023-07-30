@@ -9,9 +9,12 @@ Basics
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
+   robots/*
    purpose.rst
    dependencies.rst
    usage.rst
    credit.rst
    exercises.rst
+   *
