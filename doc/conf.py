@@ -85,6 +85,15 @@ todo_include_todos = False
 #
 html_theme = 'sphinx_rtd_theme'
 
+# Extra options for the rtd theme
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "Iron-Panthers", # Username
+    "github_repo": "wiki-sphinx-test", # Repo name
+    "github_version": "main", # Version
+    "conf_py_path": "/docs/", # Path in the checkout to the docs root
+}
+
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
@@ -94,7 +103,10 @@ html_theme = 'sphinx_rtd_theme'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = []
+html_static_path = ['source/static']
+
+# Extra CSS files for the rtd theme
+html_css_files = ['team5026.css']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
