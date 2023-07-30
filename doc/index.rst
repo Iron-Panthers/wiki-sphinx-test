@@ -8,6 +8,7 @@
    :maxdepth: 2
    :caption: 🤖 Robot Archive
    :glob:
+
    robots/*
 
 
@@ -44,6 +45,7 @@ Sub-Team Sections
    :maxdepth: 1
    :caption: 💼 Business
    :glob:
+
    business/*
 
 .. toctree::
@@ -51,6 +53,7 @@ Sub-Team Sections
    :maxdepth: 1
    :caption: ⚡️ Electrical
    :glob:
+
    electrical/*
 
 .. toctree::
@@ -58,6 +61,7 @@ Sub-Team Sections
    :maxdepth: 1
    :caption: 🦾 Mechanical
    :glob:
+
    mechanical/*
 
 .. toctree::
@@ -65,6 +69,7 @@ Sub-Team Sections
    :maxdepth: 1
    :caption: 💻 Programming
    :glob:
+
    programming/*
 
 
@@ -74,6 +79,7 @@ Sub-Team Sections
    :hidden:
    :maxdepth: 2
    :glob:
+
    purpose.rst
    dependencies.rst
    usage.rst
