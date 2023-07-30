@@ -1,6 +1,10 @@
 An Index Page with some images
 ==============================
 
+..  toctree::
+    :glob:
+    *
+
 Here's a picture of 5026's 2019 comp bot:
 
 ..  image:: Screen Shot 2022-11-19 at 1.23.41 PM.png
