@@ -23,7 +23,7 @@ Welcome
 Quick Links
 ----
 
-🚀 :doc:`getting-started-usage`
+🚀 :doc:`usage`
 
 🤖 :doc:`Robot Archive<robots/>`
 
