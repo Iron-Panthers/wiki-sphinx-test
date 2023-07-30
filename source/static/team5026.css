@@ -1,0 +1,152 @@
+/* Allow rtd right-hand pane to use full window */
+.wy-nav-content {
+  max-width: unset;
+}
+
+/* Team 5026 Style Guide */
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,300&family=Teko:wght@300;400&display=swap&family=Source+Code+Pro&display=swap);* {
+    font-family: Roboto
+}
+
+body {
+    font-family: Roboto
+}
+/*
+.ace_layer > *,.ace_line,.ace_line > *,.ace_content > *,.ace_scroller > *,.ace_gutter > *,.ace_layer > *,.ace_print-margin > *,.ace_active-line > *,.ace_editor > *,div.mw-highlight,div.mw-highlight span,code {
+    font-family: Monospace
+}
+*/
+.mw-headline,h1,h2,h3,h4,h5,h6 {
+    font-family: Teko !important;
+    font-weight: 300
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 30pt !important
+}
+
+h2 .mw-headline {
+    font-size: 24pt !important
+}
+
+h3 .mw-headline {
+    font-size: 18pt !important
+}
+
+h4 .mw-headline {
+    font-size: 14pt !important
+}
+
+h5 .mw-headline {
+    font-size: 12pt !important
+}
+
+h6 .mw-headline {
+    font-size: 10pt !important
+}
+
+.toctitle {
+    font-size: 18pt
+}
+/*
+#p-banner {
+    font-family: Teko !important;
+    font-size: 22pt !important;
+    position: relative;
+    top: 5px
+}
+
+.team5026InfoBox {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em;
+    width: 22em
+}
+
+.team5026Infobox-Above {
+    background-color: #9A0000;
+    font-weight: 300;
+    color: white;
+    font-family: Teko;
+    font-size: 28pt;
+    position: relative;
+    line-height: 35px;
+    padding-top: 7px
+}
+
+.team5026InfoBox .infobox-header {
+    background-color: #9A0000;
+    line-height: normal;
+    padding: 0.2em 0.2em;
+    color: white;
+    font-weight: 300;
+    font-size: 20px
+}
+
+#firstHeading .mw-editsection a {
+    color: white
+}
+
+body.page-Main_Page #t-cite,body.page-Main_Page #lastmod,body.page-Main_Page #siteSub {
+    display: none !important
+}
+
+#content a {
+    font-weight: bold
+}
+
+#content .toc a,.mw-editsection.mw-editsection a {
+    font-weight: normal !important
+}
+
+p.error {
+    font-weight: bold
+}
+
+#mw_contentholder {
+    padding-top: .4em
+}
+
+#coordinates {
+    position: absolute;
+    z-index: 1;
+    border: none;
+    background: none;
+    right: 0;
+    top: 0.1em;
+    float: right;
+    margin: 0;
+    padding: 0;
+    padding-right: 1.17em;
+    line-height: 1.5em;
+    text-align: right;
+    text-indent: 0;
+    font-size: 85%;
+    text-transform: none;
+    white-space: nowrap
+}
+
+#coordinates img {
+    vertical-align: top
+}
+
+.mw-topboxes {
+    margin-top: -0.4em
+}
+
+.mw-portlet h3 {
+    font-size: 14pt !important
+}
+*/
