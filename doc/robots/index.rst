@@ -4,6 +4,7 @@ An Index Page with some images
 ..  toctree::
     :glob:
     *
+    */*
 
 Here's a picture of 5026's 2019 comp bot:
 
