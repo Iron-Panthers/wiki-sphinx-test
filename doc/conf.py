@@ -91,7 +91,7 @@ html_context = {
     "github_user": "Iron-Panthers", # Username
     "github_repo": "wiki-sphinx-test", # Repo name
     "github_version": "main", # Version
-    "conf_py_path": "/docs/", # Path in the checkout to the docs root
+    "conf_py_path": "/doc/", # Path in the checkout to the docs root
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -103,7 +103,7 @@ html_context = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['source/static']
+html_static_path = ['../source/static']
 
 # Extra CSS files for the rtd theme
 html_css_files = ['team5026.css']
