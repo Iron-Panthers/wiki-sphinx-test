@@ -1,25 +1,36 @@
-An Index Page
-=============
+An Index Page with some images
+==============================
 
-something something
+Here's a picture of 5026's 2019 comp bot:
 
-.. image:: Screen Shot 2022-11-19 at 1.23.41 PM.png
+..  image:: Screen Shot 2022-11-19 at 1.23.41 PM.png
     :height: 300
 
-more
+This was included with the image directive:
+::
+  ..  image:: Screen Shot 2022-11-19 at 1.23.41 PM.png
+      :height: 300
 
-.. image:: Screen Shot 2022-11-19 at 1.20.08 PM.png
+And a picture of 5026's 2020 comp bot:
+
+..  image:: Screen Shot 2022-11-19 at 1.20.08 PM.png
     :scale: 50
     :alt: a robot
+
+This was included with the image directive:
+::
+    ..  image:: Screen Shot 2022-11-19 at 1.20.08 PM.png
+        :scale: 50
+        :alt: a robot
 
 A header
 --------
 
 A sub-header
-~~~~~~~~~~~~
+^^^^
 
 A sub-sub-header
-````
+""""
 
 Copying tables from readmes...
 
