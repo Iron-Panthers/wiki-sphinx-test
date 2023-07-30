@@ -18,24 +18,27 @@ Welcome
 2023 Charged Up Docs
 ----
 
-`2023 FRC Useful Links<https://www.team5026.com/index.php?title=2023_FRC_Useful_Links>`
-`Kickoff Tasks<https://www.team5026.com/index.php?title=Kickoff_Tasks>`
+`2023 FRC Useful Links <https://www.team5026.com/index.php?title=2023_FRC_Useful_Links>`
+`Kickoff Tasks <https://www.team5026.com/index.php?title=Kickoff_Tasks>`
 
 Quick Links
 ----
 
 🚀 :doc:`usage`
 
-🤖 :doc:`Robot Archive<robots/>`
+🤖 :doc:`Robot Archive <robots/>`
 
 How-To Guides
 ^^^^
 
 How to Design a Robust FRC Robot
+
 How to Get Onshape
-How to Get And Use Onshape FeatureScripts
+
+How to Get And Use Onshape Feature Scripts
+
 How to Wire a Robust FRC Robot
-How to Win Judged Awards
+
 
 Sub-Team Sections
 ----
